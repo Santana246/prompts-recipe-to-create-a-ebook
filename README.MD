@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/python white.png">
+    <img width="100" src="assets/python white.png">
 </p>
 
 
